@@ -9,7 +9,7 @@ test('can handle an array containing one element', () => {
 });
 
 test('finds the first duplicate when there is only one duplicate', () => {
-  expect(findFirstDuplicate([2, 2])).toBe(2);
+  expect(findFirstDuplicate([2, 2])).toBe(2);``
 });
 
 test('finds the first duplicate in an Array containing multiple duplicates', () => {
